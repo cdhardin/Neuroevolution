@@ -1,3 +1,4 @@
+$$
 # Evolving Neural Network ABM
 
 ## Overview
@@ -35,3 +36,4 @@ To use the project, follow these steps:
 2. **Refer to `initializationVariables.ipynb` for initial settings and configurations**.
 
 3. For detailed exploration or modification of specific components, you can refer to the corresponding notebooks listed above.
+$$
